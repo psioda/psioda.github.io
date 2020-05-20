@@ -1,5 +1,12 @@
 ---
-title: "About This Website"
+title: "Publications"
+output: html_document
+citation_package: natbib
+bibliography: ./cv/ref.bib  
 ---
 
-More about this website.
+
+---
+nocite: |
+  @Psioda2018A, @Psioda2018B, @Psioda2018C, @Psioda2019A, @Psioda2019B
+---

@@ -14,5 +14,3 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
-    citation_package: natbib
-    bibliography: ./cv/ref.bib   
