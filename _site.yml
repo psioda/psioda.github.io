@@ -1,8 +1,16 @@
-name: "my-website"
+name: "Matthew A. Psioda, PhD"
 navbar:
-  title: "My Website"
+  title: "Matthew A. Psioda, PhD"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Students"
+      href: students.html      
+    - text: "Key Publications"
+      href: publications.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
